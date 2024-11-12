@@ -6,3 +6,8 @@
     text-decoration: none;
     font-family: "Open Sans", sans-serif;
 }
+
+h1 {
+    font-size: 56px;
+    font-weight: 700;
+}
